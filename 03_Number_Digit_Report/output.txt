@@ -1,0 +1,9 @@
+NUMBER DIGIT ANALYSIS
+======================
+Original number     : 15421
+Number of digits     : 5
+Sum of digits        : 13
+Even digit count     : 2
+Odd digit count      : 3
+Reversed number      : 12451
+Palindrome check     : NO, the number is not a palindrome
