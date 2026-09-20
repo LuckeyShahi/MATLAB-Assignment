@@ -1,0 +1,11 @@
+VALIDATED MANUAL MATRIX MULTIPLICATION
+=======================================
+Matrix A is 2x3, Matrix B is 3x2
+Result: Multiplication A*B is possible.
+Manual result (nested loops):
+  [58 64]
+  [139 154]
+Built-in result (A*B):
+  [58 64]
+  [139 154]
+Comparison: Manual result MATCHES built-in A*B result.
