@@ -1,0 +1,11 @@
+REUSABLE ARRAY CLASSIFICATION FUNCTION
+=======================================
+Array A: [3 -4 0 8 -1 0 5]
+Array B: [10 21 -30 -7 0 6 15]
+---------------------------------------
+Category        Array A    Array B
+Positive              3          4
+Negative              2          2
+Zero                  2          1
+Even                  4          4
+Odd                   3          3
