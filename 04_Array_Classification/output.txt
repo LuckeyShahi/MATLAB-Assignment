@@ -1,0 +1,11 @@
+ARRAY CLASSIFICATION AND SUMMARY
+================================
+Input array          : [4 -7 0 15 -3 8 0 -12 7 10]
+Positive count       : 5
+Negative count       : 3
+Zero count           : 2
+Even value count     : 6
+Odd value count      : 4
+Sum of positives     : 44
+Sum of negatives     : -22
+Dominant category    : Positive (5 values)
