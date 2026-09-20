@@ -1,0 +1,6 @@
+FUNCTION-BASED SEARCH + REPORT
+==============================
+Array (from numbers.txt) : [14 22 9 22 37 5 22 61 8]
+Target value             : 22
+First index (1-based)    : 2
+Total occurrences        : 3
