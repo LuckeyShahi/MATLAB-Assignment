@@ -1,0 +1,9 @@
+MANUAL MATRIX MAXIMUM WITH POSITION
+====================================
+Input matrix:
+  [-5 -12 -3]
+  [-8 -1 -20]
+  [-9 -4 -2]
+------------------------------------
+Maximum value : -1
+Position      : Row 2, Column 2 (1-based)
