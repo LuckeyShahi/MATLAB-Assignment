@@ -1,0 +1,6 @@
+MANUAL SEARCH - FIRST POSITION AND OCCURRENCES
+===============================================
+Array           : [8 3 5 3 9 3 2 7]
+Target value    : 3
+First position  : 2 (1-based index)
+Total occurrences : 3
