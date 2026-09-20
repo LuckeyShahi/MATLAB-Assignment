@@ -1,0 +1,11 @@
+READ AND ANALYZE NUMBERS FROM FILE
+===================================
+Values read from input.txt : [12 -5 0 34 -18 7 0 -2 45 19 -30 1]
+Count of values             : 12
+Positive count              : 6
+Negative count              : 4
+Zero count                  : 2
+Sum                         : 63
+Average                     : 5.25
+Minimum                     : -30
+Maximum                     : 45
