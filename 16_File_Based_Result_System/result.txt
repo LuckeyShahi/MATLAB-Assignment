@@ -1,0 +1,9 @@
+FILE-BASED STUDENT RESULT SYSTEM
+=================================
+Name          Total  Average     Status
+-----------------------------------------
+Aarav           225    75.00       Pass
+Priya           139    46.33       Pass
+Rohan           273    91.00       Pass
+Sneha           111    37.00       Fail
+Karan           200    66.67       Pass
