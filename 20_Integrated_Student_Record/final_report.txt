@@ -1,0 +1,21 @@
+INTEGRATED STUDENT RECORD PROCESSOR - FINAL REPORT
+===================================================
+Name           Mark     Status
+---------------------------------------
+Aarav            78       Pass
+Priya            35       Fail
+Rohan            92       Pass
+Sneha            41       Pass
+Karan            60       Pass
+Meera           105    Invalid
+Dev             -10    Invalid
+Isha             55       Pass
+---------------------------------------
+Total valid students   : 6 (of 8 entries)
+Class total marks      : 361
+Class average          : 60.17
+Highest valid mark     : 92
+Lowest valid mark      : 35
+Pass count             : 5
+Fail count             : 1
+Overall class result   : Mixed result (some passed, some failed)

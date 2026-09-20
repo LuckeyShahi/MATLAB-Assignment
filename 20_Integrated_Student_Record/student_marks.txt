@@ -1,0 +1,8 @@
+Aarav 78
+Priya 35
+Rohan 92
+Sneha 41
+Karan 60
+Meera 105
+Dev -10
+Isha 55
