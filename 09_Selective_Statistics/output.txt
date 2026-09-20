@@ -1,0 +1,6 @@
+SELECTIVE PROCESSING WITH CONTINUE
+===================================
+Input array          : [5 -3 0 8 -12 0 15 -1 9]
+Positive value count : 4
+Sum of positives     : 37
+Average of positives : 9.25
