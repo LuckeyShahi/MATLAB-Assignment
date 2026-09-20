@@ -1,0 +1,7 @@
+VALIDATED FACTORIAL FUNCTION
+============================
+safeFactorial(5) -> 120
+safeFactorial(0) -> 1
+safeFactorial(-3) -> Invalid input, rejected.
+safeFactorial(4.5) -> Invalid input, rejected.
+safeFactorial(7) -> 5040
