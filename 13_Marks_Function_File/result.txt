@@ -1,0 +1,7 @@
+MARKS ANALYSIS REPORT
+======================
+Marks entered   : [55 102 38 76 -10 90 40 61]
+Average (valid) : 60.00
+Highest (valid) : 90
+Pass count      : 5
+Fail count      : 1
