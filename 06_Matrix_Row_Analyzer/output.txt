@@ -1,0 +1,14 @@
+ROW-WISE MATRIX ANALYZER
+========================
+Input matrix:
+  [4 8 2 6]
+  [9 1 5 3]
+  [7 7 7 7]
+  [2 0 11 4]
+------------------------
+Row 1 -> Sum: 20, Average: 5.00, Max: 8
+Row 2 -> Sum: 18, Average: 4.50, Max: 9
+Row 3 -> Sum: 28, Average: 7.00, Max: 7
+Row 4 -> Sum: 17, Average: 4.25, Max: 11
+------------------------
+Row with highest sum : Row 3 (Sum = 28)
