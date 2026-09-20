@@ -1,0 +1,6 @@
+MULTI-OUTPUT ARRAY SUMMARY FUNCTION
+====================================
+Array 1: [4 9 -2 15 6]
+  Total = 32, Average = 6.40, Min = -2, Max = 15
+Array 2: [-8 -3 -19 -1 -25 -6]
+  Total = -62, Average = -10.33, Min = -25, Max = -1
